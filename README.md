@@ -36,7 +36,6 @@ Will update later as I work on the extra stories
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -52,7 +51,7 @@ Will update later as I work on the extra stories
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/isK8Ml4.gifv" width=250><br>
+<img src="https://github.com/monica-tam/Flixster-App/blob/master/demo/flixter-pt1.gif" width=250><br>
 
 ### Notes
 I tried to do the walkthrough for displaying a different layout for popular movies, but I couldn't figure out a way with the current
