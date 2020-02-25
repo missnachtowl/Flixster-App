@@ -1,4 +1,4 @@
-# Flixster-App
+# Flixster-App [Part of CodePath's Android Workshop]
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flix Part 2
@@ -52,10 +52,6 @@ Will update later as I work on the extra stories
 ### App Walkthough GIF
 
 <img src="https://github.com/monica-tam/Flixster-App/blob/master/demo/flixter-pt1.gif" width=250><br>
-
-### Notes
-I tried to do the walkthrough for displaying a different layout for popular movies, but I couldn't figure out a way with the current
-setup of the program.
 
 ### Open-source libraries used
 
